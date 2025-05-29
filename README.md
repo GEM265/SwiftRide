@@ -4,9 +4,9 @@ You have been hired by a fictional ride-sharing company, "SwiftRide," to design 
 1. Allow customers to book rides by providing details: pickup location, drop-off location, and ride types.
 2. Assign drivers to customers based on their availability (available or occupied).
 3. Support three ride types :
- - Economy : fare = distance *  5
--- Luxury : fare = distance * 10
--- Pool : fare = distance * 3
+- Economy : fare = distance *  5
+- Luxury : fare = distance * 10
+- Pool : fare = distance * 3
 4. Provide customers with the estimated ride fare and driver name before confirming the booking.
 
 Your task is to design the system using Object-Oriented Programming (OOP) and SOLID principles and implement it in Python.
